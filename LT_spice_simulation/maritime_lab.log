@@ -1,0 +1,4 @@
+Circuit: * E:\github_project\maritime_temp_measurement\LT_spice_simulation\maritime_lab.asc
+
+Fatal Error: Port(pin) count mismatch between the definition of subcircuit "ad623" and instance: "xu1"
+The instance has more connection terminals than the definition.
